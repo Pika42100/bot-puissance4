@@ -16,7 +16,9 @@ Ce projet est un bot IRC écrit en Python qui joue au jeu de Puissance 4. Il se 
    ```bash
    git clone https://github.com/Pika42100/bot-puissance4.git
    cd bot-puissance4
-   lancerle bot avec python3 irc_bot.py
+   lancerle bot avec
+
+   python3 irc_bot.py
 
 
 ## mise a jour 
