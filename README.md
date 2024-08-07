@@ -3,7 +3,10 @@
 Un bot IRC pour jouer au jeu de Puissance 4 sur un canal IRC. Ce bot permet à un joueur de participer à une partie de Puissance 4 via des commandes IRC, avec un bot jouant en tant qu'adversaire.
 
 ## Table des matières
-- [Configuration]
+
+
+## config
+
 IRC_SERVER = 'irc.extra-cool.fr'   # Adresse du serveur IRC
 IRC_PORT = 6667                   # Port du serveur IRC
 IRC_CHANNEL = '#puissance4'       # Canal IRC auquel le bot doit se joindre
